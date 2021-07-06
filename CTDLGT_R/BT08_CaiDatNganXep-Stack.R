@@ -1,0 +1,7 @@
+library(dequer)
+s <- stack()
+c = c(1,2,3,5,5,61,3)
+for (i in c) push(s, i)
+str(s)
+pop(s)
+str(s)
