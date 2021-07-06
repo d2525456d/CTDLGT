@@ -43,6 +43,6 @@ def merge_sort(nums):
 
 
 
-random_list_of_nums = [10, 45, 61, 25, 16]
-random_list_of_nums = merge_sort(random_list_of_nums)
-print(random_list_of_nums)  
+sapxep = [10, 45, 61, 25, 16]
+sapxep = merge_sort(sapxep)
+print(sapxep)  
