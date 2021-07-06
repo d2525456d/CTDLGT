@@ -1,0 +1,7 @@
+library(dequer)
+q <- queue()
+c = c(1,2,3,5,5,61,3)
+for (i in c) pushback(q, i)
+str(q)
+pop(q)
+str(q)
