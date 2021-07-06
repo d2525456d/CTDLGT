@@ -7,6 +7,6 @@ def selection_sort(nums):
         nums[i], nums[lowest_value_index] = nums[lowest_value_index], nums[i]
 
 
-random_list_of_nums = [15, 82, 13, 2, 14]
-selection_sort(random_list_of_nums)
-print(random_list_of_nums)  
+sapxep = [15, 82, 13, 2, 14]
+selection_sort(sapxep)
+print(sapxep)  
