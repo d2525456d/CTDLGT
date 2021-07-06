@@ -8,6 +8,6 @@ def insertion_sort(nums):
         nums[j + 1] = item_to_insert
 
 
-random_list_of_nums = [19, 11, 5, 28, 18]
-insertion_sort(random_list_of_nums)
-print(random_list_of_nums) 
+sapxep = [19, 11, 5, 28, 18]
+insertion_sort(sapxep)
+print(sapxep) 
