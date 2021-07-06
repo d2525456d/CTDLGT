@@ -8,6 +8,6 @@ def bubble_sort(nums):
                 swapped = True
 
 
-random_list_of_nums = [51, 12, 12, 85, 44]
-bubble_sort(random_list_of_nums)
-print(random_list_of_nums)
+sapxep = [51, 12, 12, 85, 44]
+bubble_sort(sapxep)
+print(sapxep)
