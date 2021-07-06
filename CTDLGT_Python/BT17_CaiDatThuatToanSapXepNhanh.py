@@ -27,6 +27,6 @@ def quick_sort(nums):
     _quick_sort(nums, 0, len(nums) - 1)
 
 
-random_list_of_nums = [212, 52, 11, 218, 919]
-quick_sort(random_list_of_nums)
-print(random_list_of_nums)  
+sapxep = [212, 52, 11, 218, 919]
+quick_sort(sapxep)
+print(sapxep)  
